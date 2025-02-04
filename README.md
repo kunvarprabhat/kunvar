@@ -1,4 +1,4 @@
-               # Hi there, I'm Kunvar Prabhat 👋
+# Hi there, I'm Kunvar Prabhat 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology and innovation. Here you'll find a collection of my projects, contributions, and interests. Let's connect and collaborate!
 
