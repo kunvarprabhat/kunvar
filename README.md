@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** [List of Languages]
-- **Frameworks:** [List of Frameworks]
-- **Tools:** [List of Tools]
-- **Databases:** [List of Databases]
-- **Other:** [Other Relevant Technologies]
+- **Languages:** C#, JavaScript, HTML, CSS
+- **Frameworks:** .NET, ASP.NET, Entity Framework
+- **Tools:** Visual Studio, Git, Docker
+- **Databases:**  SQL Server, MS SQL,
+- **Other:** Azure, RESTful APIs, Microservices
 
 ## 🚀 Projects
 
